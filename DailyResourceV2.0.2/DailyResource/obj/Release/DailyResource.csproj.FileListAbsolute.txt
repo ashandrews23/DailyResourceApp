@@ -1,0 +1,21 @@
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\bin\Release\DailyResource.exe.config
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Release\DailyResource.csproj.ResolveComReference.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\bin\Release\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\bin\Release\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Release\DailyResource.Form1.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Release\DailyResource.Properties.Resources.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Release\DailyResource.csproj.GenerateResource.Cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Release\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Release\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\bin\Release\DailyResource.exe.config
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\DailyResource.csproj.ResolveComReference.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\bin\Release\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\bin\Release\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\DailyResource.Form1.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\DailyResource.Properties.Resources.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\DailyResource.Report.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\DailyResource.csproj.GenerateResource.Cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\RdlCompile.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Release\RdlCompile.compiled

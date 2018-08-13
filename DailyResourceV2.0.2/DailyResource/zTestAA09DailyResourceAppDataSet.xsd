@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="zTestAA09DailyResourceAppDataSet" targetNamespace="http://tempuri.org/zTestAA09DailyResourceAppDataSet.xsd" xmlns:mstns="http://tempuri.org/zTestAA09DailyResourceAppDataSet.xsd" xmlns="http://tempuri.org/zTestAA09DailyResourceAppDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="zTestAA09DailyResourceAppConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="zTestAA09DailyResourceAppConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DailyResource.Properties.Settings.GlobalReference.Default.zTestAA09DailyResourceAppConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DailyResourceTableAdapter" GeneratorDataComponentClassName="DailyResourceTableAdapter" Name="DailyResource" UserDataComponentName="DailyResourceTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="zTestAA09DailyResourceAppConnectionString (Settings)" DbObjectName="zTestAA09DailyResourceApp.dbo.DailyResource" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT DateCreated, Ashley, Drew, Garrie, George, Tyrone FROM dbo.DailyResource</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DateCreated" DataSetColumn="DateCreated" />
+              <Mapping SourceColumn="Ashley" DataSetColumn="Ashley" />
+              <Mapping SourceColumn="Drew" DataSetColumn="Drew" />
+              <Mapping SourceColumn="Garrie" DataSetColumn="Garrie" />
+              <Mapping SourceColumn="George" DataSetColumn="George" />
+              <Mapping SourceColumn="Tyrone" DataSetColumn="Tyrone" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="zTestAA09DailyResourceAppDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="zTestAA09DailyResourceAppDataSet" msprop:Generator_UserDSName="zTestAA09DailyResourceAppDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DailyResource" msprop:Generator_TableClassName="DailyResourceDataTable" msprop:Generator_TableVarName="tableDailyResource" msprop:Generator_RowChangedName="DailyResourceRowChanged" msprop:Generator_TablePropName="DailyResource" msprop:Generator_RowDeletingName="DailyResourceRowDeleting" msprop:Generator_RowChangingName="DailyResourceRowChanging" msprop:Generator_RowEvHandlerName="DailyResourceRowChangeEventHandler" msprop:Generator_RowDeletedName="DailyResourceRowDeleted" msprop:Generator_RowClassName="DailyResourceRow" msprop:Generator_UserTableName="DailyResource" msprop:Generator_RowEvArgName="DailyResourceRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DateCreated" msprop:Generator_ColumnVarNameInTable="columnDateCreated" msprop:Generator_ColumnPropNameInRow="DateCreated" msprop:Generator_ColumnPropNameInTable="DateCreatedColumn" msprop:Generator_UserColumnName="DateCreated" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Ashley" msprop:Generator_ColumnVarNameInTable="columnAshley" msprop:Generator_ColumnPropNameInRow="Ashley" msprop:Generator_ColumnPropNameInTable="AshleyColumn" msprop:Generator_UserColumnName="Ashley" type="xs:int" minOccurs="0" />
+              <xs:element name="Drew" msprop:Generator_ColumnVarNameInTable="columnDrew" msprop:Generator_ColumnPropNameInRow="Drew" msprop:Generator_ColumnPropNameInTable="DrewColumn" msprop:Generator_UserColumnName="Drew" type="xs:int" minOccurs="0" />
+              <xs:element name="Garrie" msprop:Generator_ColumnVarNameInTable="columnGarrie" msprop:Generator_ColumnPropNameInRow="Garrie" msprop:Generator_ColumnPropNameInTable="GarrieColumn" msprop:Generator_UserColumnName="Garrie" type="xs:int" minOccurs="0" />
+              <xs:element name="George" msprop:Generator_ColumnVarNameInTable="columnGeorge" msprop:Generator_ColumnPropNameInRow="George" msprop:Generator_ColumnPropNameInTable="GeorgeColumn" msprop:Generator_UserColumnName="George" type="xs:int" minOccurs="0" />
+              <xs:element name="Tyrone" msprop:Generator_ColumnVarNameInTable="columnTyrone" msprop:Generator_ColumnPropNameInRow="Tyrone" msprop:Generator_ColumnPropNameInTable="TyroneColumn" msprop:Generator_UserColumnName="Tyrone" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

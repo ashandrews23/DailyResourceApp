@@ -1,0 +1,62 @@
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\bin\Debug\DailyResource.exe.config
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\obj\Debug\DailyResource.csprojResolveAssemblyReference.cache
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\obj\Debug\DailyResource.Form1.resources
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\obj\Debug\DailyResource.Properties.Resources.resources
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\obj\Debug\DailyResource.csproj.GenerateResource.Cache
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\bin\Debug\DailyResource.exe
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\bin\Debug\DailyResource.pdb
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\obj\Debug\DailyResource.exe
+c:\users\tp10\documents\visual studio 2015\Projects\DailyResource\DailyResource\obj\Debug\DailyResource.pdb
+c:\Users\tp10\Documents\Visual Studio 2015\Projects\DailyResource\DailyResource\obj\Debug\DailyResource.csproj.ResolveComReference.cache
+T:\Information Technology\Process Development\Developers\Tyrone\C#\DailyResource\DailyResource\bin\Debug\DailyResource.exe.config
+T:\Information Technology\Process Development\Developers\Tyrone\C#\DailyResource\DailyResource\obj\Debug\DailyResource.csproj.ResolveComReference.cache
+T:\Information Technology\Process Development\Developers\Tyrone\C#\DailyResource\DailyResource\obj\Debug\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Tyrone\C#\DailyResource\DailyResource\obj\Debug\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\bin\Debug\DailyResource.exe.config
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Debug\DailyResource.csproj.ResolveComReference.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Debug\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Debug\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Debug\DailyResource.Form1.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Debug\DailyResource.Properties.Resources.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Debug\DailyResource.csproj.GenerateResource.Cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\bin\Debug\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\bin\Debug\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource\DailyResource\obj\Debug\DailyResource.csprojResolveAssemblyReference.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\bin\Debug\DailyResource.exe.config
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\DailyResource.csproj.ResolveComReference.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\bin\Debug\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\bin\Debug\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\DailyResource.Form1.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\DailyResource.Properties.Resources.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\DailyResource.csproj.GenerateResource.Cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\DailyResource.Report.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\RdlCompile.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResource - DEV\DailyResource\obj\Debug\RdlCompile.compiled
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\bin\Debug\DailyResource.exe.config
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.csproj.ResolveComReference.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\bin\Debug\DailyResource.exe
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\bin\Debug\DailyResource.pdb
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.Form1.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.Properties.Resources.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.Report.resources
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.csproj.GenerateResource.Cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\RdlCompile.cache
+T:\Information Technology\Process Development\Developers\Ashley\DailyResourceV2.0.2\DailyResource\obj\Debug\RdlCompile.compiled
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\bin\Debug\DailyResource.exe.config
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\bin\Debug\DailyResource.exe
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\bin\Debug\DailyResource.pdb
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.csprojResolveAssemblyReference.cache
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.csproj.ResolveComReference.cache
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.Form1.resources
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.Properties.Resources.resources
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.Report.resources
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.csproj.GenerateResource.cache
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.csproj.CoreCompileInputs.cache
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.csproj.CopyComplete
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.exe
+C:\Users\ahya\Downloads\DailyResourceV2.0.2\DailyResourceV2.0.2\DailyResource\obj\Debug\DailyResource.pdb
